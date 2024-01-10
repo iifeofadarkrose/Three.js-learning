@@ -1,5 +1,5 @@
 {
-  "name": "three-js-learning",
+  "name": "threejs-sphere",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.0.8"
+    "vite": "^4.3.9"
   },
   "dependencies": {
-    "gsap": "^3.12.4",
-    "three": "^0.160.0"
+    "gsap": "^3.11.5",
+    "three": "^0.153.0"
   }
 }
